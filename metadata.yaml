@@ -1,6 +1,9 @@
 _repo: My-Double-Life--The-Memoirs-of-Sarah-Bernhardt_9100
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Ma double vie. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bernhardt, Sarah
@@ -19,6 +22,8 @@ description: 'My Double Life is the autobiography of the French actress Sarah Be
   it also illuminates a whole era: not only the world of theater, but also the worlds
   of women, politics, society, Europe and America, and, indeed, of history making
   itself.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9100#My-Double-Life--The-Memoirs-of-Sarah-Bernhardt
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
